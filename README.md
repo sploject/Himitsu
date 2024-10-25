@@ -51,3 +51,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Project Link: [https://github.com/yuapi/himitsu](https://github.com/yuapi/himitsu)
+
+## Legal
+
+- [Terms of Service](TERMS_OF_SERVICE.md)
+- [Privacy Policy](PRIVACY_POLICY.md)
