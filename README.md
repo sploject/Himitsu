@@ -21,7 +21,7 @@ Himitsu is a Discord bot that enables anonymous chatting in designated channels,
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/himitsu.git
+git clone https://github.com/yuapi/himitsu.git
 ```
 
 2. Install NPM packages
