@@ -1,15 +1,25 @@
 {
   "name": "himitsu",
   "version": "1.0.0",
+  "description": "Himitsu is a Discord bot that enables anonymous chatting in designated channels, allowing users to freely express themselves while maintaining privacy through easy-to-use slash commands.",
   "main": "index.js",
-  "type": "module",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuapi/Himitsu.git"
+  },
+  "author": "yuapi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuapi/Himitsu/issues"
+  },
+  "homepage": "https://github.com/yuapi/Himitsu#readme",
   "dependencies": {
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.5",
     "node-fetch": "^2.7.0"
   }
 }
-
